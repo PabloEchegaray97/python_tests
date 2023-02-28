@@ -1,0 +1,4 @@
+## muestra que version de python esta instalada##
+python --version
+
+##
