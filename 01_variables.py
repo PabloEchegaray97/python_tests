@@ -1,6 +1,7 @@
 #en python camelCase no esta aceptado por convencion
 #se usa SNAKE_CASE (ejemplos abajo)
 # + python no compila, interpreta
+#en python el tipado es dinamico
 
 my_variable = "My string variable"
 my_int_variable = 3
