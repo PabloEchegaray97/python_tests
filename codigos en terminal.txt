@@ -2,3 +2,7 @@
 python --version
 
 ##
+
+##built in functions## 
+ver en python
+
