@@ -55,3 +55,5 @@ print(language.count("t")) #cuantas letras hay
 print(len(language))
 print(language.isnumeric())
 print(language.startswith("Py")) #empieza con ? 
+
+##3:01:26
