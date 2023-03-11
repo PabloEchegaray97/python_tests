@@ -50,7 +50,7 @@ print(diff)
 diff = current_date - year_2023.date()
 print(diff)
 ##################################
-#operar y trabajar con fechas
+#operar y trabajar con fechas * con franjas de fechas
 start_time_delta = timedelta(200, 100, 100, weeks=10, hours=20)
 end_time_delta = timedelta(300, 100, 100, weeks=13)
 print(end_time_delta - start_time_delta)
